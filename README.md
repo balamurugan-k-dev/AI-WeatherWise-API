@@ -1,4 +1,4 @@
-🌦️ AI WeatherWise
+# AI WeatherWise
 
 AI WeatherWise is a RESTful backend application that provides real-time weather information and uses Google Gemini AI to generate intelligent weather summaries and personalized recommendations.
 
