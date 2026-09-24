@@ -91,6 +91,10 @@ Main APIs include:
 - Login
 - Weather
 - Recommendation
+ 
+### 🎥 Project Demonstration video
+
+Drive link: https://drive.google.com/file/d/1UZkEFlndAStPAAX_pT0VuwV99rBSAuby/view?usp=sharing
 
 🎯 Project Objective
 
